@@ -1,6 +1,6 @@
 You can download the datasets from this drive link:
 
-https://drive.google.com/drive/folders/1uV4FTeTNSZVwYYcSO09bx8ei6_Hzw1L9?usp=sharing
+https://drive.google.com/drive/folders/1LCQfQ0NuS0WyuqmBuKz2MRH68PQ5AMhv?usp=sharing
 
 Also, the Kaggle link where we can access the datasets:
 
